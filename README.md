@@ -22,5 +22,5 @@ cd checker
 python binchecker.py
 ```
 # Credit
-[`Anon~Bot`](https://telegram.dog/But_why_god)<br>
-For API https://binlist.net
+[`Anon~Bot`](https://telegram.dog/But_why_god) Creator <br> 
+For API `https://binlist.net`
