@@ -12,7 +12,7 @@ cd checker
 python binchecker.py
 ```
 ### For Pc user
-Go to ``[Click here](https://www.python.org/downloads)``
+Go to ``[Click here]``(https://www.python.org/downloads)
 Then install it
 Open user Terminal or Cmd
 ```sh
@@ -22,5 +22,5 @@ cd checker
 python binchecker.py
 ```
 # Credit
-``[Anon-Bot](https://telegram.dog/But_why_god)``
+``[Anon-Bot]``(https://telegram.dog/But_why_god)
 For API https://binlist.net
